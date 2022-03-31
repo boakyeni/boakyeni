@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boakyeni
 - 👀 I’m interested in batteries 
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning operating systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email boakyeni@usc.edu
 
