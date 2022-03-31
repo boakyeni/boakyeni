@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boakyeni
 - 👀 I’m interested in batteries 
 - 🌱 I’m currently learning operating systems
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web and mobile apps
 - 📫 How to reach me by email boakyeni@usc.edu
 
 <!---
