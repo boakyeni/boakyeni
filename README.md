@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boakyeni
 - 👀 I’m interested in web3 
 - 🌱 I’m currently learning operating systems
-- 💞️ I’m looking to collaborate on web3 dapps
+- 💞️ I’m looking to collaborate on web3 dApps
 - 📫 How to reach me by email boakyeni@usc.edu
 
 <!---
